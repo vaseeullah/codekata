@@ -1,3 +1,3 @@
-a=int(raw_input())
+c=int(raw_input())
 for i in range(1,6):
-    print(i*a),
+    print(i*c),
