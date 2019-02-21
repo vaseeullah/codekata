@@ -1,6 +1,6 @@
 z=int(input())
-a=[]
-a=input().split()
-for i in range(0,len(a)):
-    a[i]=int(a[i])
-print(min(a))
+c=[]
+c=input().split()
+for i in range(0,len(c)):
+    c[i]=int(c[i])
+print(min(c))
